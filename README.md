@@ -6,9 +6,6 @@ Raw: https://raw.githubusercontent.com/RodrigoMvs123/Git-and-GitHub-/main/README
 
 Blame: https://github.com/RodrigoMvs123/Git-and-GitHub-/blame/main/README.md
 
-Git and GitHub for Beginners - Crash Course
-
-49:24
 
 Git and GitHub for Beginners - Crash Course
 R:
