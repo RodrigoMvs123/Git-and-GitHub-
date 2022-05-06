@@ -1,13 +1,10 @@
 # Git and GitHub 
 
-https://www.youtube.com/watch?v=RGOj5yH7evk
-
-Raw: https://raw.githubusercontent.com/RodrigoMvs123/Git-and-GitHub-/main/README.md
-
-Blame: https://github.com/RodrigoMvs123/Git-and-GitHub-/blame/main/README.md
-
 
 Git and GitHub for Beginners - Crash Course
+https://www.youtube.com/watch?v=RGOj5yH7evk
+
+
 R:
 https://git-scm.com/downloads
 https://code.visualstudio.com/
@@ -446,3 +443,4 @@ vue.js ( repository on github )
 Fork VueJs
 Create a pull request 
 Merge 
+
