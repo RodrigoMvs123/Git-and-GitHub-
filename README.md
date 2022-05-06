@@ -1,6 +1,8 @@
 # Git and GitHub 
 
-https://github.com/RodrigoMvs123/Git-and-GitHub-/blame/main/README.md
+Raw: https://raw.githubusercontent.com/RodrigoMvs123/Git-and-GitHub-/main/README.md
+
+Blame: https://github.com/RodrigoMvs123/Git-and-GitHub-/blame/main/README.md
 
 
 
