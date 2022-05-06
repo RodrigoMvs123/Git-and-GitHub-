@@ -2,9 +2,9 @@
 
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
-https://raw.githubusercontent.com/RodrigoMvs123/Git-and-GitHub-/main/README.md
+Raw: https://raw.githubusercontent.com/RodrigoMvs123/Git-and-GitHub-/main/README.md
 
-
+Blame: https://github.com/RodrigoMvs123/Git-and-GitHub-/blame/main/README.md
 
 Git and GitHub for Beginners - Crash Course
 
